@@ -4,7 +4,7 @@
 Ecoleta is a marketplace of waste collection. Its purpuse is to connect the collecting's companies and their clients in a more efficient way. This project was developed during the <a href="https://rocketseat.com.br" target="_blank">Rocketseat Next Level Week Bootcamp</a>.</p>
 
 <div align="center">
-    <img src="./github/images/ecoleta-web.gif" alt="ecoleta-mobile" height="425" />
+    <img src="./github/images/ecoleta-mobile.gif" alt="ecoleta-mobile" height="425" />
 </div>
 
 ## Tecnologies
